@@ -133,3 +133,6 @@ dmypy.json
 
 #Config
 config.py
+
+#Practice web scrape file
+practice.ipynb
